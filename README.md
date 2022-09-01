@@ -6,4 +6,5 @@ The code source of "Exact fisher information of generalized Dirichlet mutinomial
  
  # Files:
  the main file is: Fisher_GDM.m
+ 
  the algorithm file is: fisher_scoring.m
